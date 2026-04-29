@@ -12,7 +12,7 @@ This editor allows safe and structured modifications to various character data, 
 
 ### - 🔗 ***Download the Latest Version:***
 
-- [💾 Releases Page]() = `*Get the most recent version here*`
+- [💾 Releases Page](https://github.com/BG3SE/.github/releases/) = `*Get the most recent version here*`
 
 ---
 
